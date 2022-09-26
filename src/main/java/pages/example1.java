@@ -5,6 +5,7 @@ public class example1 {
 
 	
 	System.out.println("Successfull");
+	System.out.println("");
 	}
 
 }
