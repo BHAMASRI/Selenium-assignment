@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 public class checkBox extends first{
   
 	
-	public void checkBox()
+	public checkBox()
 	{
 		WebElement check = driver.findElement(By.xpath("//span[@class='ui-chkbox-label']"));
 		check.click();
@@ -54,6 +54,12 @@ public class checkBox extends first{
 	{
 		WebElement tog = driver.findElement(By.id("j_idt87:j_idt100"));
 		tog.click();
+	}
+
+	public void checkBox1() {
+		// TODO Auto-generated method stub
+		System.out.println("");
+		
 	}
 
 

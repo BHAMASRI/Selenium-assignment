@@ -1,12 +1,12 @@
 package seleniumAssignment;
 
 
-import pages.dropdownPage;
+//import pages.dropdownPage;
 
 public class dropDownBoxTextCase extends BaseClass {
 		public static void main(String[] args) throws InterruptedException {
 		initialization("https://leafground.com/select.xhtml");
-		dropdownPage dropdownPage = new dropdownPage();
+		//dropdownPage dropdownPage = new dropdownPage();
 		Thread.sleep(1000);
 		}
 

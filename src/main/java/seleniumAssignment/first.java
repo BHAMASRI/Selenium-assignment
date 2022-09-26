@@ -68,7 +68,7 @@ public class first
 	       
            driver.get("https://leafground.com/checkbox.xhtml");
 	       
-	       check.checkBox();  
+	       check.checkBox1();  
 	       
 	       check.notification();
 	       
